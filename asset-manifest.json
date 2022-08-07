@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "static/css/main.dbeff39f.css",
+    "main.js": "static/js/main.1e8db53f.js",
+    "static/js/787.eb8bc1a4.chunk.js": "static/js/787.eb8bc1a4.chunk.js",
+    "static/media/Sales Dashboard.jpeg": "static/media/Sales Dashboard.8b782228a54128faeebe.jpeg",
+    "static/media/hero.svg": "static/media/hero.ed99500893792227e6df37b5de19b5bc.svg",
+    "static/media/iam.svg": "static/media/iam.64986c02382c88d951eb73ad28f11235.svg",
+    "static/media/iam-white.svg": "static/media/iam-white.7094e94931446e9776df848c7d2948df.svg",
+    "static/media/icon-park-outline_dribble.svg": "static/media/icon-park-outline_dribble.36a425a38d595e5aa6fcc7eefede425b.svg",
+    "static/media/logo.svg": "static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/ant-design_instagram-outlined.svg": "static/media/ant-design_instagram-outlined.cbdffddbb5eba3b73c98a732815b4e98.svg",
+    "static/media/ph_telegram-logo.svg": "static/media/ph_telegram-logo.9426ca913fc0faea194f6c6e7d7127fc.svg",
+    "static/media/clarity_email-line.svg": "static/media/clarity_email-line.6a60306f86ad466d0aac93bd9a214a47.svg",
+    "index.html": "index.html",
+    "static/media/scroll.svg": "static/media/scroll.79320752072967ed6496a0c3f7cebdc3.svg",
+    "main.dbeff39f.css.map": "static/css/main.dbeff39f.css.map",
+    "main.1e8db53f.js.map": "static/js/main.1e8db53f.js.map",
+    "787.eb8bc1a4.chunk.js.map": "static/js/787.eb8bc1a4.chunk.js.map"
+  },
+  "entrypoints": ["static/css/main.dbeff39f.css", "static/js/main.1e8db53f.js"]
+}
